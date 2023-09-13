@@ -13,6 +13,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,sass,react,bootstrap,figma,tailwind,git,materialui,nodejs,mongodb,netlify,nextjs,postman,ts,vite" />
   </a>
 </p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haru-hue&layout=compact)
 
 ## 📫 Connect with me
